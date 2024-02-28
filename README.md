@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Heyo! 👋 - <strong>I'm Henry</strong></h1>
+    <h1><strong>Heyo! 👋 - I'm Henry</strong></h1>
     <p>I'm a full-time PhD student in the School of Aerospace Engineering at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>.</p> 
 </div>
 <br>
@@ -16,7 +16,7 @@
 <div>
 	<h3> Want to reach out? </h3>
 	  <p>
-        Try me on one the following:   <a href="mailto:henry.c.morten@gmail.com">henry.c.morten@gmail.com</a> 📨
+        Try me on one the following: <a href="mailto:h.morten@liverpool.ac.uk">h.morten@liverpool.ac.uk </a> or    <a href="mailto:henry.c.morten@gmail.com">henry.c.morten@gmail.com</a> 📨
         </p>
 
 <div/>
