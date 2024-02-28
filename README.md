@@ -2,8 +2,6 @@
     <h1><strong>Heyo! 👋 - I'm Henry</strong></h1>
     <p>I'm a full-time PhD student in the School of Aerospace Engineering at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>.</p> 
 </div>
-<br>
-
 <hr>
 
 <div>
