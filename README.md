@@ -14,7 +14,7 @@
 <div>
 	<h3> Want to reach out? </h3>
 	  <p>
-        Try me on one the following: <a href="mailto:h.morten@liverpool.ac.uk">h.morten@liverpool.ac.uk </a> or    <a href="mailto:henry.c.morten@gmail.com">henry.c.morten@gmail.com</a> 📨
+        I'm available at: <a href="mailto:h.morten@liverpool.ac.uk">h.morten@liverpool.ac.uk </a>📨
         </p>
 
 <div/>
